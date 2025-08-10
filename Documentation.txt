@@ -1,0 +1,7 @@
+Setup:
+1. VSCode
+2. Git and GithubDesktop
+3. Android Studio (download from https://developer.android.com/studio)
+3.a. If downloaded a .zip, follow instructions on https://developer.android.com/studio/install#windows
+4. Flutter (setup from https://docs.flutter.dev/get-started/install/windows/mobile)
+
