@@ -4,4 +4,4 @@ Setup:
 3. Android Studio (download from https://developer.android.com/studio)
 3.a. If downloaded a .zip, follow instructions on https://developer.android.com/studio/install#windows
 4. Flutter (setup from https://docs.flutter.dev/get-started/install/windows/mobile)
-
+5. Get an API key: https://newsapi.org/
